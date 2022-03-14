@@ -6,7 +6,7 @@ This is a set of technical enablement discussions around the Chef product that a
 
 Discussing the Client and Server sides of Chef Infra products used for managing configuration and compliance as code.
 
-## [Chef Habitat](habitat/README.md)
+## [Chef Habitat](hab/README.md)
 
 Chef's application management and delivery system
 
